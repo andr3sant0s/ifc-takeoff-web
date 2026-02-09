@@ -1,0 +1,6 @@
+
+flask
+ifcopenshell
+pandas
+openpyxl
+gunicorn
