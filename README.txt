@@ -1,1 +1,7 @@
-Free safe version for Render 512MB
+Replace these files in GitHub repository:
+
+- app.py
+- Dockerfile
+- requirements.txt
+
+Redeploy on Render.
